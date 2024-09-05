@@ -1,3 +1,5 @@
+# Aravindhan-S_AT_SpiceJet_Capstone_Project_GUVI
+
 This project involves End to End Automation Testing of Sign Up, Login functionalities and Booking Flights SpiceJet Application, 
 developed using tools such as Selenium WebDriver, TestNG, ExtentReport, Maven
 
